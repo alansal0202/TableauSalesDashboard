@@ -1,1 +1,1 @@
-# TableauSalesDashboard
+![Sales Dashboard](Images/Dashboard.png)
